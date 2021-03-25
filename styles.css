@@ -1,0 +1,22 @@
+
+
+.navbar{
+  border-style: solid;
+
+}
+
+.video{
+  border-style: solid;
+  width: 120;
+  height: 80;
+}
+
+.thumbnail{
+  float:right;
+  border-style: solid;
+}
+
+.comments{
+  float:left;
+  border-style: solid;
+}
