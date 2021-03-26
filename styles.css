@@ -1,19 +1,34 @@
-
+input {
+  display: inline;
+  align-items: center;
+  margin:0 auto 0 auto;
+}
 
 .navbar{
   border-style: solid;
+}
 
+.navbar img{
+  width:150px ;
+  display:inline;
+  align-items: left;
 }
 
 .video{
   border-style: solid;
   width: 120;
   height: 80;
+  float:left;
 }
 
 .thumbnail{
   float:right;
+}
+
+.thumbnail img{
+
   border-style: solid;
+  width: 150px;
 }
 
 .comments{
